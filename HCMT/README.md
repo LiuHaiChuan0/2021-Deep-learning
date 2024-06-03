@@ -47,7 +47,7 @@ sh visual/tools/dist_train.sh configs/recognition/TST/TST-L.py 4 --validate
 After training, you can test the model and generate a report on accuracy using:
 
 ```bash
-python tools/analysis/report_accuracy.py --scores result/TST-L+.pkl result/TAST.pkl --datalist Audio/egs/CABRH8/data/val1.txt --coefficient 1 1
+python tools/analysis/report_accuracy.py --scores result/TST-L+.pkl result/TAST.pkl --datalist Audio/egs/CABRH8/data/val1.txt
 ```
 
 ## Contributing
