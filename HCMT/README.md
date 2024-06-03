@@ -26,9 +26,9 @@ mim install mmaction2
 
 ## Usage
 
-### Step 1: Train the audio branch TAST
+### Step 1: Train the audio branch ATST
 
-To train the TAST model, run the following command:
+To train the ATST model, run the following command:
 
 ```bash
 sh Audio/egs/CABRH8/run.sh
