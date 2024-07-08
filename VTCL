@@ -1,5 +1,0 @@
-Novel Multimodal Contrast Learning Framework using Zero-Shot Prediction for Abnormal Behavior Recognition
-This repository hosts the official implementation of VTCL (Visual Text Contrastive Learning), a effective approach crafted for the robust detection of abnormal behaviors in campus environments. 
-VTCL uniquely combines visual and textual modalities through a straightforward integration of cross and multi-frame analysis in the visual branch and an innovative $PW_1PW_2L$ prompting technique in the textual branch. 
-This methodology not only enriches the model's understanding of contextual nuances but also significantly enhances its predictive accuracy and efficiency. VTCL has demonstrated impressive results in both traditional and 
-zero-shot settings, achieving top accuracies on multiple datasets while maintaining competitive computational efficiency. The code will be released as open source.
