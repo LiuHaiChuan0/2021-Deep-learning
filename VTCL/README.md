@@ -5,7 +5,6 @@ This repository hosts the official implementation of VTCL (Visual Text Contrasti
 
 ## Installation
 
-
 ## Usage
 The codebase is designed to be user-friendly and is structured for easy integration into existing projects. Detailed usage instructions will be provided for setting up and running the model, including how to load data, train, test, and evaluate the results.
 ## Train
