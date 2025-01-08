@@ -1,6 +1,6 @@
 # Classroom Student Behavior Recognition Using An Intelligent Sensing Framework
 
-This repository is the official implementation of CSBR, a novel hierarchical cross-modal transformer designed for the recognition of abnormal behavior. CSBR leverages cross-modal features to enhance the recognition accuracy in classroom environments.
+This repository is the official implementation of CSBR, a novel hierarchical cross-modal transformer designed for the recognition of abnormal behavior. CSBR leverages cross-modal features to enhance the recognition accuracy in classroom environments. The code will be released as open source.
 
 ## Installation
 
