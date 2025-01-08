@@ -4,12 +4,12 @@ This repository is the official implementation of CSBR, a novel hierarchical cro
 
 ## Installation
 
-To set up your environment for MFT-ISF, follow these steps:
+To set up your environment for CSBR, follow these steps:
 
 1. **Clone the repository** and navigate to the project directory:
     ```bash
-    git clone https://github.com/YourUserName/MFT-ISF.git
-    cd MFT-ISF
+    git clone https://github.com/LiuHaiChuan0/2021-Deep-learning/CSBR.git
+    cd CSBR
     ```
 
 2. *(Optional)* **Unzip** any prepackaged file assets (e.g., preprocessed data or pretrained models) if provided (e.g., `Visual.zip` or `Audio.zip`):
