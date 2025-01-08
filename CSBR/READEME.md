@@ -2,10 +2,6 @@
 
 This repository is the official implementation of CSBR, a novel hierarchical cross-modal transformer designed for the recognition of abnormal behavior. CSBR leverages cross-modal features to enhance the recognition accuracy in classroom environments.
 
-# MFT-ISF: A Multimodal Framework Transformer for Classroom Student Behavior Recognition
-
-This repository contains the official implementation of **MFT-ISF**, a novel intelligent sensing framework designed to recognize classroom student behaviors using cross-modal (audio and visual) data. MFT-ISF extends traditional static analysis methods by capturing crucial temporal and cross-modal cues, offering more accurate and real-time detection of nuanced behaviors.
-
 ## Installation
 
 To set up your environment for MFT-ISF, follow these steps:
