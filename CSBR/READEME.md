@@ -41,17 +41,17 @@ To set up your environment for MFT-ISF, follow these steps:
 If your framework separates audio and visual training, navigate to the audio branch code folder and run:
 ```bash
 sh Audio/egs/CSBR10/run.sh
-
+  ```
 ### Step 2:Train the Visual Branch (TST)
 ```bash
 sh visual/tools/dist_train.sh configs/recognition/TST/TST.py 2 --validate
-
+  ```
 ### Step 3: Test the Fusion (MFT)
 ```bash
 python tools/analysis/report_accuracy.py \
     --scores result/TST-L+.pkl result/ATST.pkl \
     --datalist Audio/egs/CSBR10/data/val_list.txt
-
+  ```
 
 ## Contributing
 
