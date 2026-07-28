@@ -17,6 +17,8 @@ The required Python packages, dependencies, and environment configuration will b
 ## Dataset
 
 Dataset preparation instructions and download information for CABR50, CABRZ6, and UCF-101 will be released upon publication.
+https://ieee-dataport.org/documents/campus-abnormal-behavior-recognition-dataset.
+
 
 ## Training
 
